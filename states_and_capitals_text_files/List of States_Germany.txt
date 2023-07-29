@@ -1,0 +1,16 @@
+Stuttgart, Baden-Württemberg
+Munich, Bavaria
+Berlin, Berlin
+Potsdam, Brandenburg
+Bremen, Bremen
+Hamburg, Hamburg
+Wiesbaden, Hesse
+Hanover, Lower Saxony
+Schwerin, Mecklenburg-Western Pomerania
+Düsseldorf, North Rhine-Westphalia
+Mainz, Rhineland-Palatinate
+Saarbrücken, Saarland
+Dresden, Saxony
+Magdeburg, Saxony-Anhalt
+Kiel, Schleswig-Holstei
+Erfurt, Thuringia

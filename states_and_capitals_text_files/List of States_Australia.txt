@@ -1,0 +1,6 @@
+Sydney, New South Wales
+Brisbane, Queensland
+Adelaide, South Australia
+Hobart, Tasmania
+Melbourne, Victoria
+Perth, Western Australia

@@ -1,0 +1,26 @@
+Hyderabad, Telangana
+Itanagar, Arunachal Pradesh
+Dispur, Assam
+Patna, Bihar
+Raipur, Chhattisgarh
+Panaji, Goa
+Gandhinagar, Gujarat
+Chandigarh, Haryana
+Shimla, Himachal Pradesh
+Ranchi, Jharkhand
+Bengaluru, Karnataka
+Thiruvanthapuram, Kerala
+Bhopal, Madhya Pradesh
+Mumbai, Maharashtra
+Imphal, Manipur
+Shilong, Meghalaya
+Aizwal, Mizoram
+Kohima, Nagaland
+Bhubaneswar, Odisha
+Chandigarh, Punjab
+Jaipur, Rajasthan
+Gangtok, Sikkim
+Chennai, Tamil Nadu
+Amaravati, Andhra Pradesh
+Agartala, Tripura
+Dehradun, Uttarakhand
